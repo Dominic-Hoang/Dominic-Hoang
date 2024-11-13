@@ -1,0 +1,6 @@
+- 👋 Hello, I’m Dominic.
+- 🌱 I’m currently focus on data-intensive and distributed systems.
+- 👀 Interested in building scalable and reliable systems that power modern applications.
+- 💞️ Looking to collaborate on open-source projects related to distributed systems or big data.
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/dominichoang/) or hoang.minhhiep@outlook.com.
+- 😄 Pronouns: He/Him
